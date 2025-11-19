@@ -1,0 +1,5 @@
+{
+  "name": "EzQuiz Android",
+  "description": "A mobile-first quiz application that loads questions from formatted text files and uses Gemini for answer explanations.",
+  "requestFramePermissions": []
+}
